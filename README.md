@@ -16,7 +16,9 @@ The harness is built around **agent skills**. A skill is a reusable set of instr
 
 You pick a repository, click a button, and the app runs the installed skill through the `sbx` CLI. When the run finishes, the app shows the agent's own report and some helpful Git notes.
 
-![Agentic Docker Builder Harness screenshot](imgs/streamlit_ui.jpg)
+<p align="center">
+  <img src="imgs/streamlit_ui.jpg" alt="Agentic Docker Builder Harness screenshot" width="480">
+</p>
 
 ## How it works
 
